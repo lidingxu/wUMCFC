@@ -85,7 +85,7 @@ and
 ```
 optimize
 ```
-The energy cost of the optimal routing is 3.115.
+Energy cost of the optimal routing is 3.115.
 
 Now, disable network routing
 ```
@@ -102,9 +102,9 @@ optimize
 The problem is infeasible without network routing!
 
 ## Format conversion
-The directory `ntrt_bb` contains source code for a standalone branch-and-bound solver `ntrt_bb` based on SCIP.
+Directory `ntrt_bb` contains source code for a standalone branch-and-bound solver `ntrt_bb` based on SCIP.
 
-The installation of `ntrt_bb` is the same as `wUMCFC`.
+Installation of `ntrt_bb` is the same as `wUMCFC`.
 
 `ntrt_bb` can convert models (with network coding) from `ntrt` format instances into files of other formats.
 
