@@ -123,15 +123,16 @@ where the output problem's format is given by file extension, e.g., ext in {lp,r
 If you find `wUMCFC` useful in your work, we kindly request that you cite the following paper draft, which is recommended reading for advanced users:
 
 
-    @unpublished{haddadvanier:hal-03242888,
-      TITLE = {{A Branch-and-Price Algorithm for Energy Optimization in Multi-Hop Wireless Networks}},
-      AUTHOR = {Haddad-Vanier, Sonia and Xu, Liding},
-      URL = {https://hal.archives-ouvertes.fr/hal-03242888},
-      NOTE = {working paper or preprint},
-      TYPE = {Technical Report},
-      INSTITUTION = {{OptimiX Team at LIX, Laboratoire d'Informatique de l'Ecole Polytechnique}},
-      YEAR = {2021},
-      MONTH = May,
-      HAL_ID = {hal-03242888},
-      HAL_VERSION = {v1},
-    }
+        @article{https://doi.org/10.1002/net.22083,
+        author = {Xu, Liding and Haddad Vanier, Sonia},
+        title = {Branch-and-price for energy optimization in multi-hop wireless sensor networks},
+        journal = {Networks},
+        volume = {n/a},
+        number = {n/a},
+        pages = {},
+        keywords = {branch-and-price, mixed integer programming (MIP), network optimization, unsplittable multi-commodity flow},
+        doi = {https://doi.org/10.1002/net.22083},
+        url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/net.22083},
+        eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/net.22083}
+        }
+
