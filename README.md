@@ -9,9 +9,9 @@
 ## Instances
 We create a data format `ntrt` to describe the network and interference. `ntrt` format has 5 groups of descriptors, and these 5 groups are listed one by one in the data file.
 
-The first line (group) lists the numbers of vertices, edges,  interference cliques and demands.
+The first line (group) lists the numbers of vertices, edges, demands and interference cliques.
 ```
-#nv #ne #nc #nf
+#nv #ne #nf #nc
 ```
 In the second group, each line describes the cost of the  i-th vertex, from the 1st to  the nv-th vertex.  Currently, the vertex cost is not used.
 
