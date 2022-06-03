@@ -123,16 +123,14 @@ where the output problem's format is given by file extension, e.g., ext in {lp,r
 If you find `wUMCFC` useful in your work, we kindly request that you cite the following paper draft, which is recommended reading for advanced users:
 
 
-        @article{https://doi.org/10.1002/net.22083,
+        @article{xubranch,
         author = {Xu, Liding and Haddad Vanier, Sonia},
         title = {Branch-and-price for energy optimization in multi-hop wireless sensor networks},
         journal = {Networks},
-        volume = {n/a},
-        number = {n/a},
-        pages = {},
-        keywords = {branch-and-price, mixed integer programming (MIP), network optimization, unsplittable multi-commodity flow},
+        volume = {80},
+        number = {1},
+        pages = {123-148},
         doi = {https://doi.org/10.1002/net.22083},
-        url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/net.22083},
-        eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/net.22083}
+        year = {2022}
         }
 
